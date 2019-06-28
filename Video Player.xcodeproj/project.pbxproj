@@ -12,6 +12,8 @@
 		C23D185922B7465D00ED39E9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C23D185722B7465D00ED39E9 /* Main.storyboard */; };
 		C23D185B22B7465F00ED39E9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C23D185A22B7465F00ED39E9 /* Assets.xcassets */; };
 		C23D185E22B7465F00ED39E9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C23D185C22B7465F00ED39E9 /* LaunchScreen.storyboard */; };
+		C23D186622B7502500ED39E9 /* IMG_7121.MOV in Resources */ = {isa = PBXBuildFile; fileRef = C23D186522B7502500ED39E9 /* IMG_7121.MOV */; };
+		C23D186822B7506B00ED39E9 /* mikeSwimming.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = C23D186722B7506B00ED39E9 /* mikeSwimming.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		C23D185A22B7465F00ED39E9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C23D185D22B7465F00ED39E9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C23D185F22B7465F00ED39E9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C23D186522B7502500ED39E9 /* IMG_7121.MOV */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = IMG_7121.MOV; sourceTree = "<group>"; };
+		C23D186722B7506B00ED39E9 /* mikeSwimming.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = mikeSwimming.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +42,8 @@
 		C23D184722B7465D00ED39E9 = {
 			isa = PBXGroup;
 			children = (
+				C23D186722B7506B00ED39E9 /* mikeSwimming.mp4 */,
+				C23D186522B7502500ED39E9 /* IMG_7121.MOV */,
 				C23D185222B7465D00ED39E9 /* Video Player */,
 				C23D185122B7465D00ED39E9 /* Products */,
 			);
@@ -125,6 +131,8 @@
 				C23D185E22B7465F00ED39E9 /* LaunchScreen.storyboard in Resources */,
 				C23D185B22B7465F00ED39E9 /* Assets.xcassets in Resources */,
 				C23D185922B7465D00ED39E9 /* Main.storyboard in Resources */,
+				C23D186622B7502500ED39E9 /* IMG_7121.MOV in Resources */,
+				C23D186822B7506B00ED39E9 /* mikeSwimming.mp4 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
